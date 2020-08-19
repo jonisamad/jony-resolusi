@@ -2,3 +2,5 @@ joni resolusi
 - Memperbaiki file coding
 -konsisten ngoding tiap hari
 -meneruskan laravel ecommerse
+-membuat aplikasi kasir untuk restoran
+-membuat video tutorial
