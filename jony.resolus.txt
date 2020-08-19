@@ -1,0 +1,4 @@
+joni resolusi
+- Memperbaiki file coding
+-konsisten ngoding tiap hari
+-meneruskan laravel ecommerse
